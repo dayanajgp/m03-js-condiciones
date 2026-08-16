@@ -4,6 +4,8 @@ Este repositorio contiene el desarrollo del **Desafío 2 - Condiciones** del mó
 
 El objetivo fue aplicar los conceptos de **manipulación del DOM, estructuras condicionales `if`, `else if`, `else` y operadores lógicos** mediante tres ejercicios independientes.
 
+🌐 **[Ver proyecto en GitHub Pages](https://dayanajgp.github.io/m03-js-condiciones/)**
+
 ---
 
 ## 📋 Requerimientos cumplidos
@@ -46,24 +48,6 @@ El objetivo fue aplicar los conceptos de **manipulación del DOM, estructuras co
 - **`if / else if / else`** – evaluación de condiciones.
 - **Operadores de comparación** – validación de valores.
 - **Operador lógico `&&`** – evaluación conjunta de condiciones.
-- **Git / GitHub** – control de versiones y almacenamiento del proyecto.
-
----
-
-## 📁 Estructura del proyecto
-
-```text
-desafio-condiciones/
-│
-├── index.html
-├── script.js
-├── style.css
-│
-└── assets/
-    ├── sticker1.svg
-    ├── sticker2.svg
-    └── sticker3.svg
-````
 
 ---
 
