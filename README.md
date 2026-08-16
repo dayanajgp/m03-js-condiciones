@@ -1,4 +1,3 @@
-````markdown
 # 🧩 Proyecto: Desafío M03 - Condiciones en JavaScript
 
 Este repositorio contiene el desarrollo del **Desafío 2 - Condiciones** del módulo de **Introducción a JavaScript**.
@@ -71,6 +70,3 @@ desafio-condiciones/
 ## 🎯 Objetivo de aprendizaje
 
 Aplicar los fundamentos de **JavaScript y manipulación del DOM** para crear interacciones simples en una página web, utilizando estructuras condicionales y operadores lógicos.
-
-```
-```
