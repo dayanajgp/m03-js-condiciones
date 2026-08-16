@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafío 2 - JS - Condiciones</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <h1>Desafío 2 - Condiciones</h1>
+
+    <section>
+      <h2>1. Imagen con borde</h2>
+      <img id="imagen" src="assets/img/img-principal-finn-y-jake.jpg" alt="Imagen de Jake y Finn" width="300" />
+    </section>
+
+    <section>
+      <h2>2. Stickers</h2>
+      <p>Puedes llevar hasta 10 stickers en total.</p>
+
+      <div class="stickers">
+        <div>
+          <img src="assets/img/jake-enamorado.png" alt="Sticker 1" width="200" />
+          <br />
+          <input id="sticker1" type="number" min="0" />
+        </div>
+        <div>
+          <img src="assets/img/jake-feliz-ilusion.jpeg" alt="Sticker 2" width="200" />
+          <br />
+          <input id="sticker2" type="number" min="0" />
+        </div>
+        <div>
+          <img src="assets/img/jake-llorando.png" alt="Sticker 3" width="200" />
+          <br />
+          <input id="sticker3" type="number" min="0" />
+        </div>
+      </div>
+
+      <button id="verificar-stickers">Verificar</button>
+      <p id="resultado-stickers"></p>
+    </section>
+
+    <section>
+      <h2>3. Ingresar password</h2>
+
+      <select id="select1">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+      </select>
+
+      <select id="select2">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+      </select>
+
+      <select id="select3">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+      </select>
+
+      <br /><br />
+      <button id="ingresar">Ingresar</button>
+      <p id="resultado-password"></p>
+    </section>
+
+    <script src="/assets/js/script.js"></script>
+  </body>
+</html>
